@@ -1,7 +1,7 @@
 {
 	"id": "AMP-Configs-Wubbity",
 	"authors": ["WubHubNetwork", "WubHubSMP"],
-	"origin": "WubWub",
+	"origin": "https://github.com/Wubbity/WubsTemplates.git",
 	"url": "https://github.com/Wubbity/WubsTemplates",
 	"imagefile": "",
 	"prefix": "wub",
